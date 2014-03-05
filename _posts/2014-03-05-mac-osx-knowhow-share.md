@@ -73,7 +73,6 @@ tags: [mac,osx,tip,setting,guide]
    >  
    >  Regards,
    >  Bogdan
-   >  
 * [Skitch](http://macnews.tistory.com/339)
   * [주요 기능들이 몽땅 제거된 Skitch 2.0 대신 1.X 최종 버전 사용하기 (다운로드) / Back to the Mac](http://macnews.tistory.com/339)
   * [스키치(Skitch)로 스크린샷 이미지의 특정 영역 강조하기 / Back to the Mac](http://macnews.tistory.com/1063)
