@@ -50,26 +50,6 @@ tags: [mac,osx,tip,setting,guide]
     * ![Dash offers integration to any Mac OSX app](http://www.netsi.dk/wordpress/wp-content/uploads/2013/01/Dash-searchForSection.jpg "Dash offers integration to any Mac OSX app")
         * _\[사진출처\] : http://www.netsi.dk/wordpress/index.php/2013/01/15/dash-the-perfect-reference-too/_
     * Dash에서 다운로드 받을 수 없었던 Spring Framework(최근에 추가됨) java docset 추가방법, 현재 Hibernate, MyBatis 등의 java docset은 없는 상태며 아래 방법으로 추가 가능
-      > 	Spring Framework Docset이 필요해서 Dash 개발자에게 문의했더니 답변으로 알려준 내용
-      > 	
-      > 	javadocset command로 Spring Documentation 사이트에서 배포 버전을 다운로드 받아서 api-docs 디렉토리를 *.docset 파일을 생성해서 Dash Docsets에 추가해주면 끝!
-      > 	
-      > 	=== 문의 ===
-      > 	
-      > 	On 3 Jul 2013, at 01:38, Daekwon Kang <ncrash@me.com> wrote: 
-      > 	
-      > 	I'd like to request a docset for Spring Framework
-      > 	
-      > 	=== 답변 ===
-      > 	
-      > 	Hi Daekwon,
-      > 	
-      > 	I've recorded your vote towards a Spring docset. Currently, Spring has 6 votes. Please note that I don't generate docsets unless more people ask for them.
-      > 	
-      > 	You can, however, generate your own docsets by following the instructions at http://kapeli.com/docsets.
-      > 	
-      > 	Regards,
-      > 	Bogdan
 * [Skitch](http://macnews.tistory.com/339)
     * [주요 기능들이 몽땅 제거된 Skitch 2.0 대신 1.X 최종 버전 사용하기 (다운로드) / Back to the Mac](http://macnews.tistory.com/339)
     * [스키치(Skitch)로 스크린샷 이미지의 특정 영역 강조하기 / Back to the Mac](http://macnews.tistory.com/1063)
