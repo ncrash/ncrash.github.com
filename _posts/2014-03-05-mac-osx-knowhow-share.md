@@ -28,7 +28,7 @@ tags: [mac,osx,tip,setting,guide, ql, quicklook]
     * [BetterZip Quick Look Generator](http://macitbetter.com/BetterZip-Quick-Look-Generator/)
         * ![BetterZipQL QuickLook](http://macitbetter.com/img/BetterZipQL11.jpg "BetterZipQL QuickLook")
     * [MultiMarkdown QuickLook Generator](http://multimarkdown.com/download/)
-        * ![MultiMarkdown QuickLook Generator ScreenShot](https://v4s1.yimg.com/sj/2816/12958152133_1713feecb7_z.jpg "MultiMarkdown QuickLook Generator ScreenShot")
+        * [![](https://v4s2.yimg.com/so/7305/12959318634_fc5f0f7d11_z.jpg)](http://www.flickr.com/photos/dkkang1018/12959318634/)
     * [qlImageSize](https://github.com/Nyx0uf/qlImageSize)
         * ***Mavericks에서 png, jpg, gif 파일에 대해 제대로 동작하지 않음. 대신 tga,bmp,psd,tif는 정상 동작***
         * ![qlImageSize 설치 전](http://static.whine.fr/images/2012/ql1.jpg "qlImageSize 설치 전")
