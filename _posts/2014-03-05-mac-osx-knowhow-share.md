@@ -54,8 +54,9 @@ tags: [mac,osx,tip,setting,guide, ql, quicklook]
 
 * [Alfred](https://itunes.apple.com/kr/app/alfred/id405843582?l=en&mt=12)
   * Alfred 파워팩을 구입해야지만 Workflow 사용가능.. 대신 한번 손에 익으면 이것만큼 편한게 또 있을까 싶슴다.
-  * Workflow
+  * Workflow - [알프레드 워크플로(Alfred Workflow) 어디서 받아야 할까? / Back to the Mac](http://macnews.tistory.com/2031)
     * [Reminders](http://www.alfredforum.com/topic/917-reminders/)
+	  * **Mavericks에서 오동작**
     * [다음사전](http://www.clien.net/cs2/bbs/board.php?bo_table=cm_mac&wr_id=652636)
     * [Alfred2-google-workflow by zhaocai](http://zhaocai.github.io/alfred2-google-workflow/)
     * [Move to Dropbox](http://www.alfredforum.com/topic/460-to-dropbox-30-formerly-move-to-dropbox-url-to-the-clipboard/)
