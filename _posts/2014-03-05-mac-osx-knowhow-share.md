@@ -24,6 +24,8 @@ tags: [mac,osx,tip,setting,guide, ql, quicklook]
 * 커뮤니티
   * [클리앙 소모임 > MaClien](http://www.clien.net/cs2/bbs/board.php?bo_table=cm_mac)
 
+---
+
 ## 근검절약
 
 `거의 모든 앱들은 할인행사를 진행하다보니 평소에 잘 모니터링 해두면 평소 원했던 앱들을 저렴한 가격에 구입할 수 있습니다.`
