@@ -18,11 +18,25 @@ tags: [mac,osx,tip,setting,guide, ql, quicklook]
   * [Project Research | 카테고리 보관물 | Mac](http://projectresearch.co.kr/category/mac/)
 * 해외
   * [9to5Mac: Apple iPhone, Mac and iPad News Breaking All Day](http://9to5mac.com/)
-    * [뉴스레터 구독하기](http://feedburner.google.com/fb/a/mailverify?uri=9To5Mac-MacAllDay)
+    * *[뉴스레터 구독하기](http://feedburner.google.com/fb/a/mailverify?uri=9To5Mac-MacAllDay)*
   * [OS X Daily - News and Tips for Mac, iPhone, iPad, and Everything Apple](http://osxdaily.com)
-    * [뉴스레터 구독하기](http://feedburner.google.com/fb/a/mailverify?uri=osxdaily&loc=en_US)
+    * *[뉴스레터 구독하기](http://feedburner.google.com/fb/a/mailverify?uri=osxdaily&loc=en_US)*
 * 커뮤니티
   * [클리앙 소모임 > MaClien](http://www.clien.net/cs2/bbs/board.php?bo_table=cm_mac)
+
+## 근검절약
+
+`거의 모든 앱들은 할인행사를 진행하다보니 평소에 잘 모니터링 해두면 평소 원했던 앱들을 저렴한 가격에 구입할 수 있습니다.`
+
+* [Appshopper](http://appshopper.com)
+  * `사이트 회원가입 후 원하는 앱들을 Want it 체크해두면 모바일 앱을 통해 할인 시 푸시 받거나 이메일로 알림을 받을 수 있습니다.`
+  * [![](https://farm8.staticflickr.com/7442/13094786164_c9a1c35e87_z.jpg)](https://www.flickr.com/photos/dkkang1018/13094786164/)
+  * [![](http://farm4.staticflickr.com/3789/13094559955_55da47f7db.jpg)](http://www.flickr.com/photos/dkkang1018/13094559955/)
+  * [![](http://farm8.staticflickr.com/7413/13094598805_081f7c8d3b_z.jpg)](http://www.flickr.com/photos/dkkang1018/13094598805/)
+* [Tuesday Two Dollar](http://twodollartues.com)
+  * `일주일에 한번 화요일마다 맥앱스토어 딜 소식을 받아보세요!`
+  * [![](https://farm8.staticflickr.com/7318/13094333215_7c61cc2460_z.jpg)](https://www.flickr.com/photos/dkkang1018/13094333215/)
+  * *[뉴스레터 구독하기](http://eepurl.com/l41G1)*
 
 ---
 
@@ -71,7 +85,10 @@ tags: [mac,osx,tip,setting,guide, ql, quicklook]
   * 윈도우에서 TotalCommander를 주로 썼기 때문에 맥에서 유사한 기능을 해주는 유틸리티
   * 주로 쓰는 기능으로는 디렉토리별 파일 사이즈 계산 이것 밖에 없다.
   * 할인 행사($1.99)떄 구입을 해서 그런지 크게 돈이 아깝다는 생각 들지는 않지만 정가를 주고 구입하기엔 맥의 기본기와 유틸리티, 훑어보기등이 너무 좋아졌다. 
-
+* [BetterSnapTool](https://macappsto.re/kr/Cvk4y.m)
+  * 창 사이즈 때문에 스트레스를 받았다면...
+  
+  
 ### Tip
 
 * Eclipse 동시 수행
