@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "os x knowhow - no 1. 훑어보기(Quick Look)편"
+title: "OS X Knowhow - No 1. 훑어보기(Quick Look)편"
 description: ""
 category: osx
 tags: [mac,osx,tip,setting,guide,ql,quicklook,ncrash]

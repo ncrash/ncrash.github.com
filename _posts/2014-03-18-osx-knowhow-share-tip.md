@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "os x knowhow - no 2. 유용한 팁(Tip)편"
+title: "OS X Knowhow - No 2. 유용한 팁(Tip)편"
 description: ""
 category: 
 tags: [mac,osx,tip,setting,guide,pricedrop,news,community,clien,ncrash]
