@@ -18,8 +18,12 @@ tags: [mac,osx,tip,setting,guide,util,utility,ncrash]
 * [Alfred](https://itunes.apple.com/kr/app/alfred/id405843582?l=en&mt=12)
   * Alfred 파워팩을 구입해야지만 Workflow 사용가능.. 대신 한번 손에 익으면 이것만큼 편한게 또 있을까 싶슴다.
   * Workflow - [알프레드 워크플로(Alfred Workflow) 어디서 받아야 할까? / Back to the Mac](http://macnews.tistory.com/2031)
-    * [다음사전](http://www.clien.net/cs2/bbs/board.php?bo_table=cm_mac&wr_id=652636)
+	* [EggTimer 2 for Alfred (Workflow)](http://geekzone.philosophicalzombie.net/post/45984228801/eggtimer2)
+	* [Stopwatch](https://github.com/jamiebullock/alfred-workflows#stopwatch)
+	* [Shorten URL](https://github.com/hzlzh/Alfred-Workflows#shorten-url-v14)
+	* [Toggle Desktop](http://jdfwarrior.tumblr.com/post/11142043960/desktop-toggle-introduction-alfred-is-a)
     * [Alfred2-google-workflow by zhaocai](http://zhaocai.github.io/alfred2-google-workflow/)
+    * [다음사전](http://www.clien.net/cs2/bbs/board.php?bo_table=cm_mac&wr_id=652636)
     * [Move to Dropbox](http://www.alfredforum.com/topic/460-to-dropbox-30-formerly-move-to-dropbox-url-to-the-clipboard/)
 * [DaisyDisk](https://itunes.apple.com/kr/app/daisydisk/id411643860?l=en&mt=12)
   * [DaisyDisk 소개](http://macnews.tistory.com/1361)
@@ -41,3 +45,6 @@ tags: [mac,osx,tip,setting,guide,util,utility,ncrash]
 * 미팅, 발표에 도움이 되는 도구
   * [caffeine](https://itunes.apple.com/kr/app/caffeine/id411246225?l=en&mt=12) - (미팅 도중에 갑자기 잠들기 모드로 변경되는 난감한 상황을 피하고 싶을때 유용한)
   * [Keyboard Cleaner](http://jan.prima.de/~jan/plok/archives/48-Keyboard-Cleaner.html) - (키보드 청소용 유틸리티인데, 잠시 빔 프로젝터를 꺼둘때 유용한)
+* [SmoothMouse for OS X](http://smoothmouse.com)
+  * 맥에서 마우스 이동속도의 불만을 해소시켜주는 유틸리티 
+  * Windows의 마우스 감도를 그대로 적용 가능
