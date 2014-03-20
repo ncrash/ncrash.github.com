@@ -12,6 +12,7 @@ tags: [mac,osx,tip,setting,guide,ql,quicklook,ncrash]
 * *[훑어보기(QuickLook) 소개 - 개발자에게 추천하는 OS X 훑어보기(QuickLook) 플러그인 6종 + α](http://macnews.tistory.com/830)*
 * [BetterZip Quick Look Generator](http://macitbetter.com/BetterZip-Quick-Look-Generator/)
   * ![BetterZipQL QuickLook](http://macitbetter.com/img/BetterZipQL11.jpg "BetterZipQL QuickLook")
+  * rich_rich_files.tar.gz 파일과 같이 gzip의 경우는 지원되지 않기 때문에 이런경우엔 "The Archive Browser"가 유용
 * [MultiMarkdown QuickLook Generator](http://multimarkdown.com/download/)
   * [![](https://v4s2.yimg.com/so/7305/12959318634_fc5f0f7d11_z.jpg)](http://www.flickr.com/photos/dkkang1018/12959318634/)
 * [qlImageSize](https://github.com/Nyx0uf/qlImageSize)
