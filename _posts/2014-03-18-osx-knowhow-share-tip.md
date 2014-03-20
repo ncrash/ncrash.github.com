@@ -26,6 +26,17 @@ tags: [mac,osx,tip,setting,guide,pricedrop,news,community,clien,ncrash]
 
 ---
 
+## 생산성
+
+    SelfControl 생산성 증대보장(?) 어플
+    hosts 파일로 시간도둑 사이트 차단하던 시절이 생각난다능 ㅎㅎ
+    생산성을 높이기 위해 특정 사이트 방문을 일정시간 막아버리는 오픈소스 무료 앱.
+    단, 맥용
+* [SelfControl](http://selfcontrolapp.com)
+* [Tyme](https://macappsto.re/kr/e3g-N.m)
+
+---
+
 ## 근검절약
 
 `거의 모든 앱들은 할인행사를 진행하다보니 평소에 잘 모니터링 해두면 평소 원했던 앱들을 저렴한 가격에 구입할 수 있습니다.`
