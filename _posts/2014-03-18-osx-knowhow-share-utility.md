@@ -2,7 +2,7 @@
 layout: post
 title: "OS X Knowhow - No 4. 유용한 유틸리티(Utility)편 "
 description: ""
-category: 
+category: osx
 tags: [mac,osx,tip,setting,guide,util,utility,ncrash]
 ---
 {% include JB/setup %}
@@ -39,12 +39,12 @@ tags: [mac,osx,tip,setting,guide,util,utility,ncrash]
 * [Forklift](https://itunes.apple.com/kr/app/forklift-file-manager-ftp/id412448059?l=en&mt=12)
   * 윈도우에서 TotalCommander를 주로 썼기 때문에 맥에서 유사한 기능을 해주는 유틸리티
   * 주로 쓰는 기능으로는 디렉토리별 파일 사이즈 계산 이것 밖에 없다.
-  * 할인 행사($1.99)떄 구입을 해서 그런지 크게 돈이 아깝다는 생각 들지는 않지만 정가를 주고 구입하기엔 맥의 기본기와 유틸리티, 훑어보기등이 너무 좋아졌다. 
+  * 할인 행사($1.99)떄 구입을 해서 그런지 크게 돈이 아깝다는 생각 들지는 않지만 정가를 주고 구입하기엔 맥의 기본기와 유틸리티, 훑어보기등이 너무 좋아졌다.
 * [BetterSnapTool](https://macappsto.re/kr/Cvk4y.m)
   * 창 사이즈 때문에 스트레스를 받았다면...
 * 미팅, 발표에 도움이 되는 도구
   * [caffeine](https://itunes.apple.com/kr/app/caffeine/id411246225?l=en&mt=12) - (미팅 도중에 갑자기 잠들기 모드로 변경되는 난감한 상황을 피하고 싶을때 유용한)
   * [Keyboard Cleaner](http://jan.prima.de/~jan/plok/archives/48-Keyboard-Cleaner.html) - (키보드 청소용 유틸리티인데, 잠시 빔 프로젝터를 꺼둘때 유용한)
 * [SmoothMouse for OS X](http://smoothmouse.com)
-  * 맥에서 마우스 이동속도의 불만을 해소시켜주는 유틸리티 
+  * 맥에서 마우스 이동속도의 불만을 해소시켜주는 유틸리티
   * Windows의 마우스 감도를 그대로 적용 가능

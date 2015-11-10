@@ -2,7 +2,7 @@
 layout: post
 title: "OS X Knowhow - No 2. 유용한 팁(Tip)편"
 description: ""
-category: 
+category: osx
 tags: [mac,osx,tip,setting,guide,pricedrop,news,community,clien,ncrash]
 ---
 {% include JB/setup %}
@@ -50,4 +50,3 @@ tags: [mac,osx,tip,setting,guide,pricedrop,news,community,clien,ncrash]
   * `일주일에 한번 화요일마다 맥앱스토어 딜 소식을 받아보세요!`
   * [![](https://farm8.staticflickr.com/7318/13094333215_7c61cc2460_z.jpg)](https://www.flickr.com/photos/dkkang1018/13094333215/)
   * *[뉴스레터 구독하기](http://eepurl.com/l41G1)*
-

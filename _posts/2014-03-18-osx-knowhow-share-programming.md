@@ -2,7 +2,7 @@
 layout: post
 title: "OS X Knowhow - No 3. 프로그래밍 도구(Utility) 편"
 description: ""
-category: 
+category: osx
 tags: [mac,osx,tip,setting,guide,programming,eclipse,java,codebox,dash,textmate,papers,markdown,ncrash]
 ---
 {% include JB/setup %}
@@ -22,7 +22,7 @@ tags: [mac,osx,tip,setting,guide,programming,eclipse,java,codebox,dash,textmate,
    >  
    >  === 문의 ===
    >  
-   >  On 3 Jul 2013, at 01:38, Daekwon Kang <ncrash@me.com> wrote: 
+   >  On 3 Jul 2013, at 01:38, Daekwon Kang <ncrash@me.com> wrote:
    >  
    >  I'd like to request a docset for Spring Framework
    >  
