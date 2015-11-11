@@ -12,9 +12,19 @@ tags: [mac,osx,tip,setting,guide,util,utility,ncrash]
 ### Utility
 
 * [iStat Menu](http://bjango.com/mac/istatmenus/)
+  * ![iStat Menu](https://bjango.com/images/mac/istatmenus5/header-cpu.jpg)
 * [Bartender](http://www.macbartender.com)
+  * ![Bartender](http://www.macbartender.com/assets/img/bartenderImages/12.png)
 * [Paula](https://itunes.apple.com/kr/app/palua/id431494195?l=en&mt=12) - 프로그램에 따라 Function 키 맵핑을 할 수 있는 프로그램
   * ![Paula Preference](https://farm4.staticflickr.com/3833/12938871694_a7e0614618_z.jpg "Paula Preference")
+* [Trip Mode](https://www.tripmode.ch/)
+* [Vitamin-R 2](https://itunes.apple.com/us/app/vitamin-r-2/id645468574?mt=12)
+  * 맥용 뽀모도로 앱
+* [GasMask](https://github.com/2ndalpha/gasmask)
+  * Hosts file manager for OS X
+* TokenLock
+* ClipboardHistory
+* TextExpander
 * [Alfred](https://itunes.apple.com/kr/app/alfred/id405843582?l=en&mt=12)
   * Alfred 파워팩을 구입해야지만 Workflow 사용가능.. 대신 한번 손에 익으면 이것만큼 편한게 또 있을까 싶슴다.
   * Workflow - [알프레드 워크플로(Alfred Workflow) 어디서 받아야 할까? / Back to the Mac](http://macnews.tistory.com/2031)

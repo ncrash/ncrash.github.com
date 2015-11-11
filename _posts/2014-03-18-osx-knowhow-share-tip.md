@@ -15,31 +15,19 @@ tags: [mac,osx,tip,setting,guide,pricedrop,news,community,clien,ncrash]
 
 * 국내
   * [Back to the Mac](http://macnews.tistory.com)
-  * [Project Research | 카테고리 보관물 | Mac](http://projectresearch.co.kr/category/mac/)
+  * [피터 김태영님 맥 노하우](http://projectresearch.co.kr/category/mac/)
 * 해외
   * [9to5Mac: Apple iPhone, Mac and iPad News Breaking All Day](http://9to5mac.com/)
     * *[뉴스레터 구독하기](http://feedburner.google.com/fb/a/mailverify?uri=9To5Mac-MacAllDay)*
   * [OS X Daily - News and Tips for Mac, iPhone, iPad, and Everything Apple](http://osxdaily.com)
     * *[뉴스레터 구독하기](http://feedburner.google.com/fb/a/mailverify?uri=osxdaily&loc=en_US)*
-* 커뮤니티
-  * [클리앙 소모임 > MaClien](http://www.clien.net/cs2/bbs/board.php?bo_table=cm_mac)
-
 ---
 
-## 생산성
+## 좋은 가격에 구입하기
 
-    SelfControl 생산성 증대보장(?) 어플
-    hosts 파일로 시간도둑 사이트 차단하던 시절이 생각난다능 ㅎㅎ
-    생산성을 높이기 위해 특정 사이트 방문을 일정시간 막아버리는 오픈소스 무료 앱.
-    단, 맥용
-* [SelfControl](http://selfcontrolapp.com)
-* [Tyme](https://macappsto.re/kr/e3g-N.m)
-
----
-
-## 근검절약
-
-`거의 모든 앱들은 할인행사를 진행하다보니 평소에 잘 모니터링 해두면 평소 원했던 앱들을 저렴한 가격에 구입할 수 있습니다.`
+`거의 모든 앱들은 특별한 날에 맞춰 할인행사를 진행합니다.
+평소 높은가격 때문에 지르지 못한 앱들을 살수 있는 절호의 찬스를 놓치면 아쉽죠.
+Wish List에만 잘 담아는것 만으로도 가격 모니터링 도구가 친절하게 알려주니 신경쓰지 않아도 됩니다.`
 
 * [Appshopper](http://appshopper.com)
   * `사이트 회원가입 후 원하는 앱들을 Want it 체크해두면 모바일 앱을 통해 할인 시 푸시 받거나 이메일로 알림을 받을 수 있습니다.`

@@ -40,6 +40,8 @@ tags: [mac,osx,tip,setting,guide,programming,eclipse,java,codebox,dash,textmate,
   * 코드 스니펫을 쉽게 관리할 수 있도록 도와주는 유틸리티
   * Text Expander와 겹치는 부분이 있지만 태생이 다르며 특히 CodeBox에는 코드 스니펫 외에 Multiple Asset, Asset Notes, Tag등을 관리 할 수 있음
   * Text Expander는 용도가 아주 단순함
+* [Quiver]
+  * Cell 방식으로 스니펫 관리 가능 Code Box에 비해 관리가 용이함
 * [Text Expander](https://itunes.apple.com/kr/app/textexpander-for-mac/id405274824?l=en&mt=12)
   * 키보드 타이핑 생산성 극대화를 위한 필수 유틸리티. 특히 리눅스의 복잡한 명령어나 반복적으로 입력하는 git, svn 커밋메시지의 기본골격을 제공
   * //TODO 실제 시연화면 gif 혹은 QuickCast로 제공
@@ -49,13 +51,7 @@ tags: [mac,osx,tip,setting,guide,programming,eclipse,java,codebox,dash,textmate,
   * [Open multiple Eclipse workspaces on the Mac - Stack Overflow](http://stackoverflow.com/questions/118243/open-multiple-eclipse-workspaces-on-the-mac)
   * [OS X Eclipse Launcher 1.2.3](http://marketplace.eclipse.org/content/osx-eclipse-launcher#.Ue8iYhbLASd)
 * Markdown
-  * [Sublime Text 2](http://www.sublimetext.com/2) + [Marked](https://itunes.apple.com/kr/app/marked/id448925439?l=en&mt=12)
-    * Package Control
-    * Markdown Preview
-    * Markdown Editing
-    * Marked.app Menu
-  * Confluence wiki에 Markdown으로 작성한 내용 적용방법
-    * Marked 등과 같이 Markdown Preview 된 HTML을 복사한 후 Rich Text 타입으로 붙여넣기
+  * [Atom](http://www.sublimetext.com/2) + [Marked](https://itunes.apple.com/kr/app/marked/id448925439?l=en&mt=12)
 
 ### Documentation
 
