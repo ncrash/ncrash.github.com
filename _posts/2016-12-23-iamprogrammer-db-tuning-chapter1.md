@@ -44,3 +44,41 @@
 * [MariaDB - 위키백과, 우리 모두의 백과사전](https://ko.wikipedia.org/wiki/MariaDB)
 * [공개SW(oss.kr) 오픈소스 기술지원기업 업체 리스트](http://www.oss.kr/oss_techsupportlist)
 * [네이버 mysql 파워유저 카페](http://cafe.naver.com/mysqlpg)
+
+### 2부: mysql 튜닝 포인트 8가지
+```일반적으로 DBMS 서버에 필요한 CPU, MEM, I/O 및 OS 튜닝 이슈에 대해서 살펴봅니다.```
+
+* 웹서버 사양의 2배 이상은 갖춰야함. 웹서버는 증설만 하면 되기때문에 서버사양에 대한 큰 고민하지 않아도 됨
+	* DB는 고사양으로 변경시 마이그레이션 이슈가 매우 크기때문에 초기에 신중하게 결정해야 함
+* 저사양 BMT MySQL vs 오라클 결과는 MySQL. 이유는 오라클은 일정 사양 이상에서 쓰레드풀 활용으로 인한 성능이 나오기 때문
+* 오픈소스 DBMS는 하드웨어빨이 중요하다
+	* CPU 코어(칩셋은 최신), 메모리 용량(최대한 많이), 퓨전IO
+	* 최대한 최신 아키텍쳐 하드웨어를 선택하는게 좋고 구버전과 신버전 차이만으로도 성능이 10% 차이가 날 수 있다고함
+	* HDD < SSD < Flash SSD < Non Volilatal Memory < DDR 메모리
+	* 리눅스는 하이엔드 사양이 아니다보니 메모리 200기가 이상꽂으면 제대로 성능이 나오지 않기에 커널튜닝 필요하기에 128기가 권장
+* 클라우드
+	* 하이엔드 인스턴스를 쓰시라
+	* IO 성능 같은게 리인벤트 발표내용만큼 나오지 않고 있음. 특히 리전별로 성능차이가 발생하고 있음
+	* 튜닝 시 유의사항 HyperVisor 레이어에서 하드한 튜닝은 막고 있어서 커널 파라미터 조정정도만 가능
+	* vCore == Virtual Core
+	* AWS RDS 관리와 운영이 편해 추천하지만 성능은 추천하지 않음
+		* 성능을 비유하면 코로케이션에서 10대로 운영할거 20~30대 늘리는 식으로 생각해야함
+* 튜닝
+	* OS튜닝 : [레드햇 튜닝 가이드](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/pdf/Performance_Tuning_Guide/Red_Hat_Enterprise_Linux-7-Performance_Tuning_Guide-en-US.pdf), 델 튜닝 가이드를 참고해서 튜닝 진행
+	* DB튜닝 : 오라클 설치 가이드를 MySQL에 그대로 적용 튜닝
+* 요즘 장애대처 흐름
+	* 장애는 필수불가결 요소라는 인식이 자리잡힘
+	* 장애상황발생 시 얼마만큼 메뉴얼화 되어 있는지가 중요
+	* MySQL 한대에서 성능최대로 뽑아낼려고 하는것 보다는 수평분할 하는걸 추천
+* 스타트업
+	* 초반에는 AWS RDS나 REDIS를 선택해서 운영이슈를 클라우드 업체에 믿고가는게 좋음
+	* 카카오는 Redis를 선택했고 라인은 HDFS 선택
+		* 서비스가 매우 커진다는 확신이 있다면 초반부터 아키텍쳐를 HDFS로 선택하고 구성하는게 맞지만 상대적으로 어렵긴함
+	* 동접 100~200명 수준은 서비스는 그냥 클라우드 쓰는게 맞음
+	* 망하지 않는 클라우드 벤더를 선택하는게 무척 좋음
+* 꿀팁
+	* 2권의 책([MySQL 성능 최적화](http://www.yes24.com/24/Goods/4348383?Acode=101), [리얼 MariaDB](http://www.yes24.com/24/goods/12653486)) 보는것
+	* 네이버 MySQL 파워유저 카페 활동참여, 한달에 한번 세미나
+	* [MySQL Performance Blog](https://www.percona.com/blog/) 성능튜닝 성지 +_+
+	* [planet.mysql.com](http://planet.mysql.com/) MySQL 피드정리해서 공유
+	* **[일본 사이트(오라클)](http://www-jp.mysql.com/) 들어가서 번역서비스를 통해 아티클 보면 정말 깔끔하게 볼 수 있음** 
