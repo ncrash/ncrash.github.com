@@ -6,6 +6,7 @@ _theme_packages/*
 .rbenv-version
 .rvmrc
 
+.idea/*
 
 # Created by https://www.gitignore.io/api/idea,intellij+iml,osx,macos
 
