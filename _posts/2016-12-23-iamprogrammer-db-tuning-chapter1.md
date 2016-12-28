@@ -1,3 +1,14 @@
+---
+layout: post
+title: "나는 프로그래머다! - DB 튜닝의 모든 것 1부"
+description: ""
+category: subway-study
+tags: [subway,study,database,mysql,mariadb,tuning]
+---
+{% include JB/setup %}
+
+---
+
 # [나는 프로그래머다!](http://pod.ssenhosting.com/rss/programmer/iamprogram.xml) 데니스채널 e02 - DB 튜닝의 모든 것 1부
 
 ## 이형채, "DB 장애를 내본 사람"	29:12 06/11/2016
