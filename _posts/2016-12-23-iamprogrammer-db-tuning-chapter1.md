@@ -93,3 +93,52 @@ tags: [subway,study,database,mysql,mariadb,tuning]
 	* [MySQL Performance Blog](https://www.percona.com/blog/) 성능튜닝 성지 +_+
 	* [planet.mysql.com](http://planet.mysql.com/) MySQL 피드정리해서 공유
 	* **[일본 사이트(오라클)](http://www-jp.mysql.com/) 들어가서 번역서비스를 통해 아티클 보면 정말 깔끔하게 볼 수 있음** 
+
+### 3부: mysql 튜닝 포인트
+```아르노 Adant 가 MySQL Connect 2013 에서 발표한 성능개선 50가지 팁에 대해서 살펴봅니다. ( Tip 1-13 )```
+
+* 팁
+	* 1번 메모리
+	* 2번 CPU
+	* 3번 디스크
+		* Fusion IO가 비싸다면 짝퉁제품들이 많으니 대안이 되는 포인트 많음
+	* 4번 OS
+		* MySQL이 어디서 개발될까? 리눅스에서 개발됨으로 당연히 리눅스가 최상의 속도
+		* 튜닝포인트가 전부 리눅스 기반으로 제공
+	* 5번 리소스
+		* open file 수랑 유저 쓰레드 수는 최대치로 설정
+	* 6번 malloc
+		* facebook jmalloc 지속적인 트래픽을 받아줘야 하는 서비스는 고려해볼만
+	* 7번 linux cpu 오퍼니티(?)
+		* 누마 컨트롤 인터렉티브하게 설정
+		* 스왑은 죄악이다. 성능 저하의 주요원인
+		* aws 클라우드에서는 적용이 쉽지 않은게 zen hypervisor단 제약으로 인해
+	* 8번 파일 시스템파티션
+		* xfs is excellent
+		* 마운트 옵션 항상 체크
+		* buffered io, checked io 벤치
+		* SSD
+	* 9번 
+		* 리눅스 cfq 기본설정인데 deadline, nop를 많이 쓰는데 일반적으론 deadline 선택
+		* 선택 시 항상 벤치성능 확인하고 결정
+		* raid controller 이슈 없는지 잘 체크해야함
+		* raid controller 깨지면 데이터 날라가는건 한순간이니 이중화나 백업 철저히
+	* 12번
+		* 로그와 데이터 디스크 분리
+		* raid 스트라이핑 구성하는게 가장 성능상 좋음
+	* 19번
+		* 성능상 구려서 쿼리 캐쉬 꺼라
+		* 옵티마이져 성능이 구려서 플랜짜는게 잘 맞지 않음
+		* 쿼리 캐쉬 옵티마이져 Single Thread 동작방식이라 Bottle Lack 자주 걸림
+		* 아예 꺼라
+		* mysql보다 mariadb를 써라 스레드풀 때문에
+		* 모니터링과 백업 때문에라도 엔터프라이즈 쓰는게 가장 최선
+* 인프라 구성
+	* 메모리 많이 구성 액티브 데이터에 비례하게 메모리를 구성
+		* 32코어 구성할 시 코어당 메모리 2기가 또는 4기가 구성
+	* temp 디렉토리를 디스크를 램디스크도 잡아야 성능상 이점을 누릴 수 있음
+* 유의사항
+	* 
+* 참고 자료
+	* http://blog.aadant.com
+	* http://aadant.com/blog/wp-content/uploads/2013/09/50-Tips-for-Boosting-MySQL-Performance-CON2655.pdf
