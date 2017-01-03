@@ -2,10 +2,9 @@
 layout: post
 title: "GDG Seoul 2014년 3월 정기 Meetup"
 description: ""
-category: 
+categories: 
 tags: [vagrant, docker]
 ---
-{% include JB/setup %}
 
 * 신청페이지 : [https://developers.google.com/events/5228281527795712/](https://developers.google.com/events/5228281527795712/)
 * 이벤트페이지 : [https://plus.google.com/events/cao3hh6tkm1n9uqvjc8thf12klc](https://plus.google.com/events/cao3hh6tkm1n9uqvjc8thf12klc)

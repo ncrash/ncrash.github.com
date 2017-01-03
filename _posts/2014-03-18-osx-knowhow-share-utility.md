@@ -2,10 +2,9 @@
 layout: post
 title: "OS X Knowhow - No 4. 유용한 유틸리티(Utility)편 "
 description: ""
-category: osx
+categories: osx
 tags: [mac,osx,tip,setting,guide,util,utility,ncrash]
 ---
-{% include JB/setup %}
 
 ---
 

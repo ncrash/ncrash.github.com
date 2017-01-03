@@ -2,10 +2,9 @@
 layout: post
 title: "vagrant와 virtualbox의 연결고리"
 description: "Vagrant는 VirtualBox VM을 어떻게 찾아내는 것일까?"
-category: 
+categories: 
 tags: []
 ---
-{% include JB/setup %}
 
 필자의 환경은 Windows 7 Professional K Service Pack 1 64bit이며 vagrant ssh 접속은 cygwin을 통해 하고 있었다. 이 연결고리를 찾게된 계기는 VirtualBox를 버전 업그레이드를 하면서 부터 시작됐다.
 

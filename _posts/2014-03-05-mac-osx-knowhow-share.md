@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "OS X Knowhow - No 1. 훑어보기(Quick Look)편"
-description: ""
-category: osx
+title: "OS X Knowhow"
+description: "No 1. 훑어보기(Quick Look)편"
+categories: osx
 tags: [mac,osx,tip,setting,guide,ql,quicklook,ncrash]
 ---
-{% include JB/setup %}
 
 ---
 

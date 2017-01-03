@@ -2,10 +2,9 @@
 layout: post
 title: "Testing Spring Boot Applications - Phil Webb"
 description: ""
-category: subway-study
+categories: subway-study
 tags: [subway,study,spring,test,junit,spring-boot,mock]
 ---
-{% include JB/setup %}
 
 ---
 

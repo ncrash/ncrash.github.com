@@ -2,10 +2,9 @@
 layout: post
 title: "나는 프로그래머다! - DB 튜닝의 모든 것 1부"
 description: ""
-category: subway-study
+categories: subway-study
 tags: [subway,study,database,mysql,mariadb,tuning]
 ---
-{% include JB/setup %}
 
 ---
 

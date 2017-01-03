@@ -2,10 +2,9 @@
 layout: post
 title: "OS X Knowhow - No 2. 유용한 팁(Tip)편"
 description: ""
-category: osx
+categories: osx
 tags: [mac,osx,tip,setting,guide,pricedrop,news,community,clien,ncrash]
 ---
-{% include JB/setup %}
 
 부제 : Java 웹 개발자를 위한 OS X 환경 셋팅
 

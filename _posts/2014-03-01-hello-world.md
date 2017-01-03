@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Hello World"
-description: ""
-category: 
-tags: []
+[comment]: <> #date:  
+categories: jekyll
 ---
-{% include JB/setup %}

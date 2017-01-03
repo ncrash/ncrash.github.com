@@ -2,10 +2,9 @@
 layout: post
 title: "OS X Knowhow - No 3. 프로그래밍 도구(Utility) 편"
 description: ""
-category: osx
+categories: osx
 tags: [mac,osx,tip,setting,guide,programming,eclipse,java,codebox,dash,textmate,papers,markdown,ncrash]
 ---
-{% include JB/setup %}
 
 ---
 
